@@ -1,0 +1,11 @@
+body {
+background: black;
+color: #EEEEEF; 
+font-family: helvetica;
+}
+
+div.title-bar {
+	background-color: black;
+	background: linear-gradient(#000000, #222223);
+	color: #;
+}
